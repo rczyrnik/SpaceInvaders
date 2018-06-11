@@ -7,7 +7,9 @@ The left and right arrow keys move the launcher back and forth, and the up arrow
 
 My next step is to add more aliens. For the six I have now, I actually told them to appear at pixel number n or m. Ideally, they'd figure out where they belong automatically. I first need to generalize the program to allow for more than six in a row, and then add more rows.
 
-![SpaceInvaders](SpaceInvaders.png?raw=true "SpaceInvaders")
+
+<img src="SpaceInvaders.png" alt="Space Invaders" width="400px"/>
+
 
 Alien number 4 is about to be blown from the sky!
 
